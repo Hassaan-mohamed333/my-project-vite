@@ -29,7 +29,7 @@ export default function Portfolio() {
 
     return (
         <>
-            <div className="flex justify-center items-center h-screen ">
+            <div className="flex justify-center items-center h-screen bg-white ">
                 <div className="w-3/4 mx-auto flex flex-wrap pt-20">
                     {imgs.map((img) => {
                         return (

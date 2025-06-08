@@ -4,7 +4,7 @@ export default function About() {
     
     return <>
 
-        <section className="bg-[#17af91] h-screen flex items-center justify-center flex-col gap-10 text-white">
+        <section className="bg-[#17af91] h-screen flex items-center justify-center flex-col gap-10 text-white w-screen">
             <div className="flex flex-col gap-10">
                 <img src="../../assets/Images/avatar.svg" alt="" />
                 <h1 className='font-bold text-3xl'>ABOUT COMPONENT</h1>

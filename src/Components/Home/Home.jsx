@@ -5,7 +5,7 @@ import avatar from '../../assets/Images/avatar.svg';
 export default function Home() {
     return <>
 
-        <section className='bg-green-500 text-white'>
+        <section className='bg-green-500 text-white w-screen'>
             <div className="justify-center items-center h-screen flex flex-col gap-5">
                 <img src={avatar} alt="" width={250} />
                 <h1 className=' text-4xl uppercase font-bold '>Start framework</h1>

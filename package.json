@@ -2,7 +2,6 @@
   "name": "react-ass1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Hassaan-mohamed333.github.io/my-project-vite",
   "type": "module",
   "scripts": {
     "dev": "vite",

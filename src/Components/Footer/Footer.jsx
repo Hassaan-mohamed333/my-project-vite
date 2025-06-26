@@ -2,7 +2,7 @@
 export default function Footer() {
     return <>
         <footer className="bg-[#2c3e50] dark:bg-gray-900 relative py-20 w-100%">
-            <div className="mx-auto w-full max-w-screen-xl mb-20 md:mb-10">
+            <div className="mx-auto w-full  mb-20 md:mb-10">
                 <div className="grid grid-cols-1 gap-8 px-10 py-6 lg:py-8 md:grid-cols-3 text-white">
                     <div className='text-center'>
                         <h2 className="mb-6 text-2xl font-semibold text-white uppercase dark:text-white">Location</h2>

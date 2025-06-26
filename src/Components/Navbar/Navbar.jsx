@@ -128,21 +128,21 @@ export default function Navbar() {
                 <NavLink
                   to="about"
                   onClick={closeMenu}
-                  className="block px-4 py-3 text-lg text-white hover:bg-[#2c3e50] rounded-md transition-colors duration-200 uppercase text-center"
+                  className="block px-4 py-3 text-lg text-white hover:bg-[#2c3e50] rounded-md bg-tranparnt transition-colors duration-200 uppercase text-center"
                 >
                   About
                 </NavLink>
                 <NavLink
                   to="portfolio"
                   onClick={closeMenu}
-                  className="block px-4 py-3 text-lg text-white hover:bg-[#2c3e50] rounded-md transition-colors duration-200 uppercase text-center"
+                  className="block px-4 py-3 text-lg text-white hover:bg-[#2c3e50] rounded-md bg-tranparnt transition-colors duration-200 uppercase text-center"
                 >
                   Portfolio
                 </NavLink>
                 <NavLink
                   to="contact"
                   onClick={closeMenu}
-                  className="block px-4 py-3 text-lg text-white hover:bg-[#2c3e50] rounded-md transition-colors duration-200 uppercase text-center"
+                  className="block px-4 py-3 text-lg text-white hover:bg-[#2c3e50] rounded-md bg-tranparnt transition-colors duration-200 uppercase text-center"
                 >
                   Contact
                 </NavLink>
